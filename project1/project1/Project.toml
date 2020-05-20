@@ -1,0 +1,6 @@
+authors = ["ma "]
+name = "project1"
+uuid = "0b8d340e-9ad5-11ea-29df-4b04e7395718"
+version = "0.1.0"
+
+[deps]
